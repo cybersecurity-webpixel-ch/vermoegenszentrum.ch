@@ -1,0 +1,3 @@
+window.Adform.Tracking.TrackingPointId = 106073300;
+window.Adform.Tracking.TrackingPointName = "/";
+Adform.Tracking.CreateIframeElement("https://track.adform.net/serving/container/?pm=2452765&lid=106073300&ctype=0&media=0&PageName=%2f&rnd=1286734716&cpref=https%3a%2f%2fwww.bing.com%2f&loc=https%3a%2f%2fwww.vermoegenszentrum.ch%2f%3fmsclkid%3d203044bd432117bba6d523f616f91d60%26utm_source%3dbing%26utm_medium%3dcpc%26utm_campaign%3d00%2520CH-de%2520GSN%2520Brand%2520VZ%26utm_term%3dvz%2520verm%25C3%25B6genszentrum%26utm_content%3dExact", null, {"${GDPR}":"","${GDPR_CONSENT_755}":""});
